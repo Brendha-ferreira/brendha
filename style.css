@@ -1,2 +1,10 @@
 body{background-color: blue;}
-header{background-color: cornsilk;}
+header{background-color: #272e97;
+display: flex; 
+justify-content: space-around;}
+
+
+
+.imagem{width: 10%;}
+
+
